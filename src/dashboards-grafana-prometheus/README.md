@@ -56,16 +56,6 @@ Link: https://grafana.com/grafana/dashboards/15760-kubernetes-views-pods/
 
 Diferentes alternativas de dashboard que dependem do Prometheus e que foram testas com o Azure Kubernetes Service (AKS).
 
-### Kubernetes Dashboard By Chever
-
-Útil em consultas envolvendo métricas de Pods.
-
-Link: https://grafana.com/grafana/dashboards/22237-kubernetes-dashboard-by-chever/
-
-![alt](img/chever-01.png)
-
----
-
 ### Cluster / Global performance
 
 Visão geral do consumo de CPU e memória em um cluster.
